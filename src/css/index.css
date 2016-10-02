@@ -223,11 +223,11 @@ a.readmore { background: #fd8a61; color: #fff; padding: 5px 10px; float: right; 
 .weixin { background: url(../images/weixin.jpg) no-repeat; width: 100%; display: inline-block; height: 274px; overflow: hidden; margin: 10px 0; clear: both }
 
 /* add by chenanjie*/
-.deask{
+/*.deask{
 	width: 358px;
     height: 213px;
     background: url('../images/headBg_1.png') no-repeat;
     position: absolute;
     top: 39px;
     left: 612px;
-}
+}*/
